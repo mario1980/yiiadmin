@@ -1,3 +1,4 @@
-# yiiadmin
+Yii admin
+================================
 
-####Yii admin for device upgrade/activate 
+Yii admin for device upgrade/activate 
